@@ -1,1 +1,2 @@
-# pixel_art_maker
+# PIXEL ART MAKER
+## Final Project for Google Africa Challenge Scholarship 

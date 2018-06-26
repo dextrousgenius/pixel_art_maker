@@ -1,0 +1,102 @@
+body {
+
+
+    text-align: center;
+    background: #DA4453;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+    font-family: 'Knewave', cursive;
+    font-size: 70px;
+    text-transform: uppercase;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+.formInputStyle {
+
+  border-bottom-color: #b3b3b3;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #b3b3b3;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #b3b3b3;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #b3b3b3;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top-style: solid;
+    border-top-width: 1px;`
+    size = 25;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+
+
+
+}
+
+#sizePicker {
+
+  padding: 20px;
+
+}
+
+.spacing {
+
+margin: 50px;
+font-family: 'Nanum Gothic', sans-serif;
+font-size: 30px;
+
+}
+
+#submitButton{
+
+  margin: 50px;
+
+}
+
+#inputHeight, #inputWeight {
+
+  width: 100px;
+  height: 45px;
+  border-radius: 10px;
+
+}
